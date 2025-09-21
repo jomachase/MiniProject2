@@ -1,0 +1,6 @@
+event_id,event_name,event_duration,event_location
+1,Conference  1,14,"Brooklyn, New York"
+2,Conference  2,74,"Manhattan, New York"
+3,Conference  3,36,"Queens, New York"
+4,Conference  4,45,"Staten Island, New York"
+5,Conference  5,68,"Bronx, New York"
