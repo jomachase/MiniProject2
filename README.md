@@ -1,4 +1,4 @@
-# MiniProject3
+# MiniProject2
 MiniProject2 - SQL: From Data to Insight
 
 NYC Airbnb for STUDENTS 
